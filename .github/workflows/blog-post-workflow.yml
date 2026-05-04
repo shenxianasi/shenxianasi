@@ -20,3 +20,4 @@ jobs:
         with:
           feed_list: "https://rss.csdn.net/2504_93424949/rss/map"
           max_post_count: 5
+          readme_path: "README.md,README_zh.md"
