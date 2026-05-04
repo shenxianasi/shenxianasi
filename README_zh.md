@@ -99,6 +99,11 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [【论文精读】Agentic Memory: Learning Unified Long-Term and Short-Term MemoryManagement for Large Language](https://blog.csdn.net/2504_93424949/article/details/158700969)
+- [2026年美赛C题思路分享及数学推导](https://blog.csdn.net/2504_93424949/article/details/157552756)
+- [【论文精读】Language Is Not All You Need: Aligning Perceptionwith Language Models](https://blog.csdn.net/2504_93424949/article/details/158103078)
+- [【论文精读】BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders](https://blog.csdn.net/2504_93424949/article/details/158102796)
+- [【论文精读】BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding](https://blog.csdn.net/2504_93424949/article/details/158101736)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shenxianasi">
