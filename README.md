@@ -85,10 +85,10 @@
 
 <p align="center">
   <a href="https://github.com/shenxianasi/Nano-Math">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shenxianasi&repo=Nano-Math&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shenxianasi&repo=Nano-Math&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/shenxianasi/Nano-Math-plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shenxianasi&repo=Nano-Math-plus&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shenxianasi&repo=Nano-Math-plus&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </p>
 
@@ -117,7 +117,7 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=shenxianasi&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenxianasi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shenxianasi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=shenxianasi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
